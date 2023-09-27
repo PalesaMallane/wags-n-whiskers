@@ -1,0 +1,15 @@
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\bin\Debug\Wags 'n Whiskers Management System.exe.config
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\bin\Debug\Wags 'n Whiskers Management System.exe
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\bin\Debug\Wags 'n Whiskers Management System.pdb
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags 'n Whiskers Management System.csproj.AssemblyReference.cache
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags 'n Whiskers Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags__n_Whiskers_Management_System.Properties.Resources.resources
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags 'n Whiskers Management System.csproj.GenerateResource.cache
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags 'n Whiskers Management System.csproj.CoreCompileInputs.cache
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags 'n Whiskers Management System.exe
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags 'n Whiskers Management System.pdb
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags__n_Whiskers_Management_System.Billing.resources
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags__n_Whiskers_Management_System.Customers.resources
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags__n_Whiskers_Management_System.Employees.resources
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags__n_Whiskers_Management_System.Products.resources
+C:\Users\Palesa\Documents\2023\INF164\Wags 'n Whiskers Management System\obj\Debug\Wags__n_Whiskers_Management_System.LogIn.resources
